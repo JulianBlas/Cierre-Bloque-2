@@ -20,3 +20,7 @@
 ### Mcaffe
 
 > McAfee VirusScan es un software antivirus, creado y mantenido por la empresa Intel Security, conocía anteriormente por Network Assoiates. El VirusScan Plus fue creado para uso doméstico; el VirusScan Enterprise para uso en pequeñas y medias empresas. En complemento de estos, existen otros productos McAfee como McAfee Internet Security, que ofrece seguridad mayor para computadoras con acceso a Internet, y el McAfee Total Protection (All-in-one) que ofrece una protección completa para el computador. Tanto McAfee Internet Security como McAfee Total Protection poseen como componente el VirusScan, además, Internet Security posee McAfee SiteAdvisor
+
+### Norton
+
+> Brinda protección contra virus, spyware, software malicioso y otras amenazas en línea, protege la identidad y las transacciones en línea , protege múltiples PCs, Macs, smartphones y tablets con una sola suscripción, ayuda a administrar la protección de todos los dispositivos mediante un portal web fácil de usar, Realiza copias de seguridad automáticas de las fotografías, archivos financieros y otros documentos importantes que seleccione en su PC con Windows, incluye almacenamiento seguro en la nube de 25 GB para su PC con la opción de agregar más capacidad a medida que cambian las necesidades.
