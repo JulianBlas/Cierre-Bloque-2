@@ -5,4 +5,4 @@
 
 > Los antivirus son programas codificadores los cuales eliminar cualquiere error o filtracion por algun archivo (virus) que dañe de cualquier forma a tu sistema opérativo. Creados a partir de que se descubrio el primer virus informático de no haber sido por este motivo, la conexion a internet,trabajo en computadoras y hasta el chat, serian mas rapidos.
 
-Sirven para que hoy en dia tu sistema ,pueda ser regularmente rapido ya que ningun antivirus es capaz de eliminarlos ni de proteger tus entradas. Hoy en dia hay antivirus que se acercan cada vez mas a una proteccion completa
+> Sirven para que hoy en dia tu sistema ,pueda ser regularmente rapido ya que ningun antivirus es capaz de eliminarlos ni de proteger tus entradas. Hoy en dia hay antivirus que se acercan cada vez mas a una proteccion completa
