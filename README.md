@@ -27,27 +27,11 @@
 
 [Kaspersky Internet Security](https://julianblas.github.io/Cierre-Bloque-2/Kaspersky)
 
-[ABG Anti-Virus](https://julianblas.github.io/Cierre-Bloque-2/AVG)
+[AVG Anti-Virus](https://julianblas.github.io/Cierre-Bloque-2/AVG)
 
-### Avast
+[Avast Anti-Virus](https://julianblas.github.io/Cierre-Bloque-2/Avast)
 
-> _A vast Comunidad IQ_: Es una base de usuarios a través de la recolección de datos y su análisis, después de una serie de datos del módulo anti-rootkit que comparten entre sí, evitando de este modo la misma. Anti-rootkit integrado: Es la inspección automática por la tecnología GMER, se puede comprobar y marcar controlador Rootkit bajo carga, de esta forma incluso detectar rootkits especie desconocida, que puede estar en funcionamiento antes de ejecutar el malicioso y así prevenir y eliminar de forma segura Rootkit. Anti-spyware incorporado.
-
-> _Simulador de código_: Desde Avast! 5.0, cuando se produce una ejecución sospechosa de un programa durante el escaneo manual y el escaneo automático, Avast! Puede simular el código del programa en Sandbox y no daña el sistema. Aunque técnicamente es diferente de la tecnología analógica tradicional, un código de programa que simula una fórmula de conversión dinámica más rápida es adoptada por completo.
-
-> _Detectar programas no deseados_: Para obtener nuevas funciones desde Avast! 5.0, puede detectar programas no deseados como software de control remoto y registros de claves comerciales y así personalizar el programa para hacer frente a este tipo de programas.
-
-![](https://i0.wp.com/www.ayudacelular.com/wp-content/uploads/2017/09/avast-logo.jpg?fit=1024%2C561&ssl=1.jpg)
-
-### Panda security
-
-> Panda Security es una compañía que fue pionera en el lanzamiento de programas de seguridad. El modelo de seguridad de Panda fue presentado en el mercado en el año 2007. Se trata de un servicio de protección para computadoras que ofrece cuidado continuo.
-> Protege tu privacidad impidiendo que el software espía (spyware) se instale en tu ordenador. La protección anti-spyware evita que este tipo de software recopile datos sobre tus hábitos y preferencias al navegar por Internet
-Acceso remoto: Te permite conectarte a tu PC remotamente desde cualquier otro equipo a través de Internet y utilizarlo como si estuvieras sentado frente a él, estés donde estés (+ información).
-
-> Navegación segura: Navegar por Internet utilizando el sistema de navegación segura de Panda Internet Security 2013 supone hacerlo en un entorno virtual, totalmente independiente del sistema, que garantiza la seguridad de tu PC en Internet.
-
-![](http://curiositherapy.com/wp-content/uploads/2015/10/38ce557daaec.jpg)
+[Panda security](https://julianblas.github.io/Cierre-Bloque-2/Panda)
 
 ### CCleaner
 
@@ -59,14 +43,10 @@ Acceso remoto: Te permite conectarte a tu PC remotamente desde cualquier otro eq
 
 > Entre otras cosas, este antivirus ofrece a los usuarios una protección automática frente a virus, malware y otras amenazas presentes en Internet, una navegación segura en Internet gracias a la protección de navegación, resultados de búsquedas seguros para garantizar la privacidad del usuario y su seguridad digital, operaciones bancarias en línea seguras gracias a su servicio de Banking Protection, protección parental para proteger a los menores mientras se encuentran conectados a Internet, entre otras cosas.Monitor
 
-![](https://www.pcmag.com/sm/pcmagus/photo/default/f-secure-logo7_w5bk.png)
-
 ### Avira
 
 >Ofrece protección en tiempo real contra ataques de virus, protección en unidades de CDs y memorias USB, permite la conexión remota a Internet en caso de que el servidor de actualizaciones local no se encuentre disponible, entre otras muchas.
 Además, no solo detecta virus y programas maliciosos, sino que también podemos elegir otros tipos de aplicaciones o amenazas que buscar a la hora de realizar escaneos. Nos proporciona protección contra virus desconocidos hasta el momento, gusanos, troyanos, rastreadores de llamadas, spyware y adware entre otros. Para realizar una búsqueda simplemente tendremos que seleccionar de una lista de opciones la que queramos, dándole a click derecho y “Start Scan” . Con QuickRemoval eliminaremos los virus con solo pulsar un botón.
-
-![](http://temosoft.com/wp-content/uploads/2017/12/avira-logo-678x381.png)
 
 ### Eset NOD32 Antivirus
 
@@ -84,4 +64,3 @@ Un módulo auxiliar que escanea los e-mails recibidos y enviados, a través de l
 > _Monitor de Internet (IMON)_
 Un escáner residente en memoria que se ejecuta en el nivel Winsock y que impide que los archivos infectados lleguen a los discos de la computadora. Escanea el tráfico de navegación de internet (HTTP) y los e-mails que llegan a través del protocolo POP3.
 
-![](https://pe.tienda.eset-la.com/pub/media/catalog/product/cache/image/700x360/e9c3970ab036de70892d86c6d221abfe/e/n/ena_800x800_3.png)
