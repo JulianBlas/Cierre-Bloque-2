@@ -19,14 +19,9 @@
 
 ![](http://u.jimdo.com/www23/o/sfb9debcd89cb036d/img/i9b2aca697b24d7db/1358730234/std/image.png)
 
-# Nombres de Antivirus
 ![](https://blogcortez.files.wordpress.com/2015/06/los-5-antivirus-mas-usados.jpg)
 
-### Mcaffe
-
-> McAfee VirusScan es un software antivirus, creado y mantenido por la empresa Intel Security, conocía anteriormente por Network Assoiates. El VirusScan Plus fue creado para uso doméstico; el VirusScan Enterprise para uso en pequeñas y medias empresas. En complemento de estos, existen otros productos McAfee como McAfee Internet Security, que ofrece seguridad mayor para computadoras con acceso a Internet, y el McAfee Total Protection (All-in-one) que ofrece una protección completa para el computador. Tanto McAfee Internet Security como McAfee Total Protection poseen como componente el VirusScan, además, Internet Security posee McAfee SiteAdvisor
-
-![](https://i2.wp.com/www.criptonoticias.com/extra/wp-content/uploads/2016/09/mcafee-reporte-virus-ransomware.png?resize=600%2C300&ssl=1.jpg)
+[McAfee Security](https://julianblas.github.io/Cierre-Bloque-2/AVG)
 
 ### Norton
 
@@ -62,7 +57,7 @@
 > Protege tu privacidad impidiendo que el software espía (spyware) se instale en tu ordenador. La protección anti-spyware evita que este tipo de software recopile datos sobre tus hábitos y preferencias al navegar por Internet
 Acceso remoto: Te permite conectarte a tu PC remotamente desde cualquier otro equipo a través de Internet y utilizarlo como si estuvieras sentado frente a él, estés donde estés (+ información).
 
-> Navegación segura: Navegar por Internet utilizando el sistema de navegación segura de Panda Internet Security 2013 supone hacerlo en un entorno virtual, totalmente independiente del sistema, que garantiza la seguridad de tu PC en Internet.
+Navegación segura: Navegar por Internet utilizando el sistema de navegación segura de Panda Internet Security 2013 supone hacerlo en un entorno virtual, totalmente independiente del sistema, que garantiza la seguridad de tu PC en Internet.
 
 ![](http://curiositherapy.com/wp-content/uploads/2015/10/38ce557daaec.jpg)
 
@@ -76,14 +71,10 @@ Acceso remoto: Te permite conectarte a tu PC remotamente desde cualquier otro eq
 
 > Entre otras cosas, este antivirus ofrece a los usuarios una protección automática frente a virus, malware y otras amenazas presentes en Internet, una navegación segura en Internet gracias a la protección de navegación, resultados de búsquedas seguros para garantizar la privacidad del usuario y su seguridad digital, operaciones bancarias en línea seguras gracias a su servicio de Banking Protection, protección parental para proteger a los menores mientras se encuentran conectados a Internet, entre otras cosas.Monitor
 
-![](https://www.pcmag.com/sm/pcmagus/photo/default/f-secure-logo7_w5bk.png)
-
 ### Avira
 
 >Ofrece protección en tiempo real contra ataques de virus, protección en unidades de CDs y memorias USB, permite la conexión remota a Internet en caso de que el servidor de actualizaciones local no se encuentre disponible, entre otras muchas.
 Además, no solo detecta virus y programas maliciosos, sino que también podemos elegir otros tipos de aplicaciones o amenazas que buscar a la hora de realizar escaneos. Nos proporciona protección contra virus desconocidos hasta el momento, gusanos, troyanos, rastreadores de llamadas, spyware y adware entre otros. Para realizar una búsqueda simplemente tendremos que seleccionar de una lista de opciones la que queramos, dándole a click derecho y “Start Scan” . Con QuickRemoval eliminaremos los virus con solo pulsar un botón.
-
-![](http://temosoft.com/wp-content/uploads/2017/12/avira-logo-678x381.png)
 
 ### Eset NOD32 Antivirus
 
@@ -101,4 +92,3 @@ Un módulo auxiliar que escanea los e-mails recibidos y enviados, a través de l
 > _Monitor de Internet (IMON)_
 Un escáner residente en memoria que se ejecuta en el nivel Winsock y que impide que los archivos infectados lleguen a los discos de la computadora. Escanea el tráfico de navegación de internet (HTTP) y los e-mails que llegan a través del protocolo POP3.
 
-![](http://ichiban-mbx.com/wp-content/uploads/2017/01/Eset-Nod32-Antivirus-2017-1.jpg)
