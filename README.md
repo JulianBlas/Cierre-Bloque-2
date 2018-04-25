@@ -44,7 +44,7 @@
 ### Panda security
 
 > Panda Security es una compañía que fue pionera en el lanzamiento de programas de seguridad. El modelo de seguridad de Panda fue presentado en el mercado en el año 2007. Se trata de un servicio de protección para computadoras que ofrece cuidado continuo.
-Protege tu privacidad impidiendo que el software espía (spyware) se instale en tu ordenador. La protección anti-spyware evita que este tipo de software recopile datos sobre tus hábitos y preferencias al navegar por Internet
+> Protege tu privacidad impidiendo que el software espía (spyware) se instale en tu ordenador. La protección anti-spyware evita que este tipo de software recopile datos sobre tus hábitos y preferencias al navegar por Internet
 Acceso remoto: Te permite conectarte a tu PC remotamente desde cualquier otro equipo a través de Internet y utilizarlo como si estuvieras sentado frente a él, estés donde estés (+ información).
 
 Navegación segura: Navegar por Internet utilizando el sistema de navegación segura de Panda Internet Security 2013 supone hacerlo en un entorno virtual, totalmente independiente del sistema, que garantiza la seguridad de tu PC en Internet.
@@ -66,14 +66,15 @@ Además, no solo detecta virus y programas maliciosos, sino que también podemos
 
 >Este antivirus es un escáner que funciona a pedido, y que puede ser ejecutado manualmente por el usuario en archivos específicos. Fue desarrollado por la empresa ESET, de origen eslovaco. 
 
-_Monitor Antivirus (AMON)_
+> _Monitor Antivirus (AMON)_
 Un escáner que funciona durante el acceso (residente en memoria) y que escanea automáticamente los archivos antes de acceder a ellos.
 
-_Monitor de documentos (DMON)_
+> _Monitor de documentos (DMON)_
 Utiliza el Microsoft API propietario para escanear los documentos de Microsoft Office (incluyendo el Internet Explorer).
 
-_Monitor de e-mails (EMON)_
+> _Monitor de e-mails (EMON)_
 Un módulo auxiliar que escanea los e-mails recibidos y enviados, a través de la interfaz MAPI, usada por ejemplo por Microsoft Outlook y Microsoft Exchange.
 
-_Monitor de Internet (IMON)_
+> _Monitor de Internet (IMON)_
 Un escáner residente en memoria que se ejecuta en el nivel Winsock y que impide que los archivos infectados lleguen a los discos de la computadora. Escanea el tráfico de navegación de internet (HTTP) y los e-mails que llegan a través del protocolo POP3.
+
