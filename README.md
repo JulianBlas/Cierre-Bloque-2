@@ -24,3 +24,7 @@
 ### Norton
 
 > Brinda protección contra virus, spyware, software malicioso y otras amenazas en línea, protege la identidad y las transacciones en línea , protege múltiples PCs, Macs, smartphones y tablets con una sola suscripción, ayuda a administrar la protección de todos los dispositivos mediante un portal web fácil de usar, Realiza copias de seguridad automáticas de las fotografías, archivos financieros y otros documentos importantes que seleccione en su PC con Windows, incluye almacenamiento seguro en la nube de 25 GB para su PC con la opción de agregar más capacidad a medida que cambian las necesidades.
+
+### Kaspersky Internet Security
+
+> Multi-Device protege PCs, Macs, smartphone y tablets Android con una única licencia. Está dotado de las mejores y galardonadas tecnologías Kaspersky Lab, optimiza el nivel de seguridad de todos los dispositivos y garantiza una protección constante y siempre actualizada frente a todas las amenazas en la Red. No importa el dispositivo que se utilice para navegar, hacer transacciones y compras online, las tecnologías Kaspersky Lab garantizan siempre la máxima seguridad. Kaspersky Internet Security – Multi-Device combina en un solo producto Kaspersky Internet Security 2014, Kaspersky Internet Security for Mac y Kaspersky Internet Security for Android, con un solo código de activación.
