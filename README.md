@@ -27,7 +27,7 @@
 
 [Kaspersky Internet Security](https://julianblas.github.io/Cierre-Bloque-2/Kaspersky)
 
-[ABG Anti-Virus](https://julianblas.github.io/Cierre-Bloque-2/AVG)
+[AVG Anti-Virus](https://julianblas.github.io/Cierre-Bloque-2/AVG)
 
 ### Avast
 
