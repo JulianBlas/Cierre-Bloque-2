@@ -17,3 +17,4 @@ Un módulo auxiliar que escanea los e-mails recibidos y enviados, a través de l
 Un escáner residente en memoria que se ejecuta en el nivel Winsock y que impide que los archivos infectados lleguen a los discos de la computadora. Escanea el tráfico de navegación de internet (HTTP) y los e-mails que llegan a través del protocolo POP3.
 
 ![](https://pe.tienda.eset-la.com/pub/media/catalog/product/cache/image/700x360/e9c3970ab036de70892d86c6d221abfe/e/n/ena_800x800_3.png)
+ NOD32 Antivirus
