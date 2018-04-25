@@ -40,3 +40,15 @@
 > _Simulador de código_: Desde Avast! 5.0, cuando se produce una ejecución sospechosa de un programa durante el escaneo manual y el escaneo automático, Avast! Puede simular el código del programa en Sandbox y no daña el sistema. Aunque técnicamente es diferente de la tecnología analógica tradicional, un código de programa que simula una fórmula de conversión dinámica más rápida es adoptada por completo.
 
 > _Detectar programas no deseados_: Para obtener nuevas funciones desde Avast! 5.0, puede detectar programas no deseados como software de control remoto y registros de claves comerciales y así personalizar el programa para hacer frente a este tipo de programas.
+
+### Panda security
+
+> Panda Security es una compañía que fue pionera en el lanzamiento de programas de seguridad. El modelo de seguridad de Panda fue presentado en el mercado en el año 2007. Se trata de un servicio de protección para computadoras que ofrece cuidado continuo.
+Protege tu privacidad impidiendo que el software espía (spyware) se instale en tu ordenador. La protección anti-spyware evita que este tipo de software recopile datos sobre tus hábitos y preferencias al navegar por Internet
+Acceso remoto: Te permite conectarte a tu PC remotamente desde cualquier otro equipo a través de Internet y utilizarlo como si estuvieras sentado frente a él, estés donde estés (+ información).
+
+Navegación segura: Navegar por Internet utilizando el sistema de navegación segura de Panda Internet Security 2013 supone hacerlo en un entorno virtual, totalmente independiente del sistema, que garantiza la seguridad de tu PC en Internet.
+
+### CCleaner
+
+> CCleaner (anteriormente Crap Cleaner), es una aplicación gratuita, de código cerrado, que tiene como propósito mejorar el rendimiento de cualquier equipo que ejecute Microsoft Windows mediante la eliminación de los archivos innecesarios y las entradas inválidas del registro de Windows, con lo cual se recupera espacio desperdiciado en el disco y los accesos al registro se vuelven mucho más rápidos. También puede desinstalar programas desde su interfaz e inhabilitar la ejecución de aplicaciones en el inicio del sistema, para mejorar la velocidad de arranque y reducir la carga del sistema. sus funciones son: asegura la navegación, Reduce los errores, Vuelve estable la PC, deshabilita programas innecesarios.
