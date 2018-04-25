@@ -28,3 +28,15 @@
 ### Kaspersky Internet Security
 
 > Multi-Device protege PCs, Macs, smartphone y tablets Android con una única licencia. Está dotado de las mejores y galardonadas tecnologías Kaspersky Lab, optimiza el nivel de seguridad de todos los dispositivos y garantiza una protección constante y siempre actualizada frente a todas las amenazas en la Red. No importa el dispositivo que se utilice para navegar, hacer transacciones y compras online, las tecnologías Kaspersky Lab garantizan siempre la máxima seguridad. Kaspersky Internet Security – Multi-Device combina en un solo producto Kaspersky Internet Security 2014, Kaspersky Internet Security for Mac y Kaspersky Internet Security for Android, con un solo código de activación.
+
+### AVG Antivirus
+
+> El nombre comercial para el software de seguridad de AVG Technologies es AVG, el cual proviene de su primer producto, Anti-Virus Guard, es un software antivirus desarrollado por la empresa checa, AVG Technologies, disponible para sistemas operativos Windows, Linux, Android, iOS y Windows Phone, entre otros. Actualmente este software de antivirus en todas sus versiones es propiedad de Avast. AVG Technologies es una empresa privada checa formada en enero de 1991 por Gritzbach y Tomas Hofer.AVG Tecnologías proporciona un número de productos de la gama de AVG, compatible para Windows 2000 en adelante. Además de esto, AVG Technologies también proporciona a Linux y a FreeBSD el software antivirus. AVG Antivirus está disponible tanto en las ediciones freeware como en ediciones comerciales. Desde AVG 8.0, la edición comercial de AVG Antivirus 8.0 incluye Antispyware, LinkScanner, Anti-Rootkit, Web Shield y la Barra de herramientas para navegación segura. AVG Antivirus 8.0 añade la protección de Firewall integrada.
+
+### Avast
+
+>A vast Comunidad IQ: Es una base de usuarios a través de la recolección de datos y su análisis, después de una serie de datos del módulo anti-rootkit que comparten entre sí, evitando de este modo la misma. Anti-rootkit integrado: Es la inspección automática por la tecnología GMER, se puede comprobar y marcar controlador Rootkit bajo carga, de esta forma incluso detectar rootkits especie desconocida, que puede estar en funcionamiento antes de ejecutar el malicioso y así prevenir y eliminar de forma segura Rootkit. Anti-spyware incorporado.
+
+Simulador de código: Desde Avast! 5.0, cuando se produce una ejecución sospechosa de un programa durante el escaneo manual y el escaneo automático, Avast! Puede simular el código del programa en Sandbox y no daña el sistema. Aunque técnicamente es diferente de la tecnología analógica tradicional, un código de programa que simula una fórmula de conversión dinámica más rápida es adoptada por completo.
+
+Detectar programas no deseados: Para obtener nuevas funciones desde Avast! 5.0, puede detectar programas no deseados como software de control remoto y registros de claves comerciales y así personalizar el programa para hacer frente a este tipo de programas.
