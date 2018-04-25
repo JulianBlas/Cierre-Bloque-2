@@ -26,13 +26,13 @@
 
 > McAfee VirusScan es un software antivirus, creado y mantenido por la empresa Intel Security, conocía anteriormente por Network Assoiates. El VirusScan Plus fue creado para uso doméstico; el VirusScan Enterprise para uso en pequeñas y medias empresas. En complemento de estos, existen otros productos McAfee como McAfee Internet Security, que ofrece seguridad mayor para computadoras con acceso a Internet, y el McAfee Total Protection (All-in-one) que ofrece una protección completa para el computador. Tanto McAfee Internet Security como McAfee Total Protection poseen como componente el VirusScan, además, Internet Security posee McAfee SiteAdvisor
 
-![](https://i2.wp.com/www.criptonoticias.com/extra/wp-content/uploads/2016/09/mcafee-reporte-virus-ransomware.png?resize=600%2C300&ssl=1).jpg
+![](https://i2.wp.com/www.criptonoticias.com/extra/wp-content/uploads/2016/09/mcafee-reporte-virus-ransomware.png?resize=600%2C300&ssl=1.jpg)
 
 ### Norton
 
 > Brinda protección contra virus, spyware, software malicioso y otras amenazas en línea, protege la identidad y las transacciones en línea , protege múltiples PCs, Macs, smartphones y tablets con una sola suscripción, ayuda a administrar la protección de todos los dispositivos mediante un portal web fácil de usar, Realiza copias de seguridad automáticas de las fotografías, archivos financieros y otros documentos importantes que seleccione en su PC con Windows, incluye almacenamiento seguro en la nube de 25 GB para su PC con la opción de agregar más capacidad a medida que cambian las necesidades.
 
-![](https://assets.pcmag.com/media/images/486655-norton-logo-good.png?width=810&height=456).jpg
+![](https://assets.pcmag.com/media/images/486655-norton-logo-good.png?width=810&height=456.jpg)
 
 ### Kaspersky Internet Security
 
@@ -54,7 +54,7 @@
 
 > _Detectar programas no deseados_: Para obtener nuevas funciones desde Avast! 5.0, puede detectar programas no deseados como software de control remoto y registros de claves comerciales y así personalizar el programa para hacer frente a este tipo de programas.
 
-![](https://i0.wp.com/www.ayudacelular.com/wp-content/uploads/2017/09/avast-logo.jpg?fit=1024%2C561&ssl=1).jpg
+![](https://i0.wp.com/www.ayudacelular.com/wp-content/uploads/2017/09/avast-logo.jpg?fit=1024%2C561&ssl=1.jpg)
 
 ### Panda security
 
@@ -64,7 +64,7 @@ Acceso remoto: Te permite conectarte a tu PC remotamente desde cualquier otro eq
 
 Navegación segura: Navegar por Internet utilizando el sistema de navegación segura de Panda Internet Security 2013 supone hacerlo en un entorno virtual, totalmente independiente del sistema, que garantiza la seguridad de tu PC en Internet.
 
-![](http://curiositherapy.com/wp-content/uploads/2015/10/38ce557daaec).jpg
+![](http://curiositherapy.com/wp-content/uploads/2015/10/38ce557daaec.jpg)
 
 ### CCleaner
 
