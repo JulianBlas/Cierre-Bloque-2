@@ -33,16 +33,24 @@
 
 [Panda security](https://julianblas.github.io/Cierre-Bloque-2/Panda)
 
-[CCleaner](https://julianblas.github.io/Cierre-Bloque-2/CCleaner)
+### CCleaner
+
+> CCleaner (anteriormente _Crap Cleaner_), es una aplicación gratuita, de código cerrado, que tiene como propósito mejorar el rendimiento de cualquier equipo que ejecute Microsoft Windows mediante la eliminación de los archivos innecesarios y las entradas inválidas del registro de Windows, con lo cual se recupera espacio desperdiciado en el disco y los accesos al registro se vuelven mucho más rápidos. También puede desinstalar programas desde su interfaz e inhabilitar la ejecución de aplicaciones en el inicio del sistema, para mejorar la velocidad de arranque y reducir la carga del sistema. sus funciones son: asegura la navegación, Reduce los errores, Vuelve estable la PC, deshabilita programas innecesarios.
+
+![](https://images-na.ssl-images-amazon.com/images/I/81w3ghiobTL.png)
 
 ### F-Secure Antivirus
 
 > Entre otras cosas, este antivirus ofrece a los usuarios una protección automática frente a virus, malware y otras amenazas presentes en Internet, una navegación segura en Internet gracias a la protección de navegación, resultados de búsquedas seguros para garantizar la privacidad del usuario y su seguridad digital, operaciones bancarias en línea seguras gracias a su servicio de Banking Protection, protección parental para proteger a los menores mientras se encuentran conectados a Internet, entre otras cosas.Monitor
 
+![](https://www.pcmag.com/sm/pcmagus/photo/default/f-secure-logo7_w5bk.png)
+
 ### Avira
 
 >Ofrece protección en tiempo real contra ataques de virus, protección en unidades de CDs y memorias USB, permite la conexión remota a Internet en caso de que el servidor de actualizaciones local no se encuentre disponible, entre otras muchas.
 Además, no solo detecta virus y programas maliciosos, sino que también podemos elegir otros tipos de aplicaciones o amenazas que buscar a la hora de realizar escaneos. Nos proporciona protección contra virus desconocidos hasta el momento, gusanos, troyanos, rastreadores de llamadas, spyware y adware entre otros. Para realizar una búsqueda simplemente tendremos que seleccionar de una lista de opciones la que queramos, dándole a click derecho y “Start Scan” . Con QuickRemoval eliminaremos los virus con solo pulsar un botón.
+
+![](http://temosoft.com/wp-content/uploads/2017/12/avira-logo-678x381.png)
 
 ### Eset NOD32 Antivirus
 
@@ -60,3 +68,4 @@ Un módulo auxiliar que escanea los e-mails recibidos y enviados, a través de l
 > _Monitor de Internet (IMON)_
 Un escáner residente en memoria que se ejecuta en el nivel Winsock y que impide que los archivos infectados lleguen a los discos de la computadora. Escanea el tráfico de navegación de internet (HTTP) y los e-mails que llegan a través del protocolo POP3.
 
+![](https://pe.tienda.eset-la.com/pub/media/catalog/product/cache/image/700x360/e9c3970ab036de70892d86c6d221abfe/e/n/ena_800x800_3.png)
